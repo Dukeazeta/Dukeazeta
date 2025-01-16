@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Duke<br><br>- 🔭 I’m working as a flutter developer<br>- 📚 I'm currently working @kokolabs<br>- ⚡ In my free time I sleepppp!</p>
+<p align="left">My name is Duke<br><br>- 🔭 I’m working as a flutter developer<br>- 📚 I'm currently working @kokolabs<br>- ⚡ In my free time I sleepppp!</p>
 
 ###
 
