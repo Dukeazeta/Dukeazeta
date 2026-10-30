@@ -1,83 +1,34 @@
+# Hi, I'm Duke Azeta
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/duke-azeta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Duke_Azeta_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="azetaduke@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+Full-stack developer from Nigeria. I build web apps with Next.js and TypeScript, and mobile apps with Flutter. Most of what I make is for students: free courses, study tools and exam software.
 
-###
+[Portfolio](https://dukedev.space) · [LinkedIn](https://www.linkedin.com/in/duke-azeta/) · [Email](mailto:azetaduke@gmail.com)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dukeazeta.Dukeazeta&"  />
-</div>
+## Free courses
 
-###
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [Python from zero](https://github.com/Dukeazeta/python-from-zero) · [live](https://35-202-224-205.sslip.io) | 40 lessons from your first line of Python to LeetCode-style algorithms. 129 exercises run real Python in the browser, with an optional AI tutor. | Python standard library, SQLite, Pyodide, Gemini |
+| [FrontendEngineerIntern](https://github.com/Dukeazeta/frontendengineerintern) · [live](https://frontendengineerintern.dukedev.space) | An open course from zero to frontend engineer, with interactive figures and exercises in every section. | Next.js, MDX, Drizzle, Turso, Better Auth |
 
-<h1 align="center">Welcome👋</h1>
+## Apps
 
-###
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [FinAI](https://github.com/Dukeazeta/finai) · [live](https://finai-eosin.vercel.app) | A money tracker you talk to. Type or speak what you spent and it updates your books, budgets and dashboard. | Next.js, Neon Postgres, Drizzle, Gemini Live API |
+| [Note2Mind](https://github.com/Dukeazeta/note2mind) | Upload notes (PDF, DOCX, TXT) and get summaries, mind maps, flashcards and quizzes. | Next.js, Express, Prisma, PostgreSQL, Cloudflare R2, pg-boss |
+| [TourneyKoko](https://github.com/Dukeazeta/tourneykoko) · [live](https://tourneykoko.vercel.app) | Run a league, cup or group stage from your phone and share one read-only link. | Next.js, Drizzle, Turso, Better Auth |
+| [SwiftLog](https://github.com/Dukeazeta/siwes-log-generator) · [live](https://swiftlog-beta.vercel.app) | Turns a weekly summary into daily SIWES logbook entries. | Next.js, Supabase, AI SDK |
+| [HUSTLE](https://github.com/Dukeazeta/HUSTLE) · [live](https://hustle-cyan.vercel.app) | Lead discovery and outreach workspace. Audits business websites, scores them and drafts pitches a person approves before sending. | Next.js, Turso, Auth.js, Google Places, Gemini |
+| [SecureBank NG](https://github.com/Dukeazeta/banking_application) · [live](https://securebankng.vercel.app) | Banking system where MySQL stored procedures, row locks and audit tables own every balance change. | Next.js, MySQL, Paystack test mode |
 
-<h3 align="left">👩‍💻  About Me</h3>
+## School and campus tools
 
-###
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [FUPRE CBT](https://github.com/Dukeazeta/standalone-cbt) · [live](https://standalone-cbt.vercel.app) | Computer-based testing for departmental exams: timers, shuffling, autosave, live monitoring and automatic scoring. | Next.js, Drizzle, Turso |
+| [AttendEase](https://github.com/Dukeazeta/attendease) · [live](https://attendease-gray.vercel.app) | Class attendance that checks students are inside the venue's GPS radius and blocks repeat sign-ins from one device. | Next.js, Turso, NextAuth, FingerprintJS |
 
-<p align="left">Hi, my name is Duke<br><br>- 🔭 I’m working as a flutter developer<br>- 📚 I'm currently building kokolabs<br>- ⚡ I break and fix stuff in my free time. LOL</p>
+## Tools I use
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dukeazeta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dukeazeta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Dukeazeta&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Dukeazeta/Dukeazeta/output/snake.svg" alt="Snake animation" />
-
-###
+TypeScript, React, Next.js, Tailwind CSS, Node.js, Python, Dart and Flutter, PostgreSQL, MySQL, SQLite and Turso, Drizzle and Prisma, Vercel, Gemini API.
